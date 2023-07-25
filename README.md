@@ -9,7 +9,6 @@ This project uses Python to scrape data from Wikipedia to collect the first and 
     4.Save the names to a file.
 
 # The project uses the following Python libraries:
-    ::marker
     <code>requests</code> for making HTTP requests to Wikipedia.
     BeautifulSoup for parsing the HTML content of Wikipedia pages.
     json used to parse JSON data.
