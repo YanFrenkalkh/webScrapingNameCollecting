@@ -16,18 +16,18 @@ The project is divided into the following steps:
     5.pandas library used to work with dataframes.
 
 To run the project, you will need to have Python installed on your computer. 
-You can then install the necessary libraries by running the following command in your terminal:
+# You can then install the necessary libraries by running the following command in your terminal:
 
 pip install requests beautifulsoup4 pandas tqdm
 
-Once you have installed the libraries, you can run the project by running the following command in your terminal:
+# Once you have installed the libraries, you can run the project by running the following command in your terminal:
 
 python names_data_collection.py
 
 This will scrape the Wikipedia pages and save the names to the data_sets.csv file.
 
 The CSV file contains the contents of a Wikipedia pages. 
-The file contains the following columns:
+# The file contains the following columns:
 
     Name (Label): This column stores the name from the Wikipedia website. This refers to the given name or surname we are looking for.
     WikiData ID: This column stores the ID you found.
